@@ -1,2 +1,3 @@
 # contfinder
-Detectinf oxymoron in a single statement
+Detecting oxymoron in a single statement:
+word-by-word semantic contrast analysis
